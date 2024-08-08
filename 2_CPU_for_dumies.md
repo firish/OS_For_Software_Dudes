@@ -19,14 +19,15 @@ The most common processor and core combinations in modern laptops and mobile dev
 - Quad-core processors: These are very common in both laptops and mobile devices. They offer a good balance of performance and power efficiency for a wide range of tasks.
 - Hexa-core and Octa-core processors: These are becoming more common, especially in higher-end devices, providing even more performance for demanding applications.
 
-For Apple MacBook Air, the default is 1 processor (M1/M2/M3) with 8 cores (4 low performance and 4 high performance).
-For Apple iPhone 14 Pro, the default is 1 processor (Apple A15 Bionic) with Hexa-core (6 cores: 2 high-performance + 4 high-efficiency)
-Multiple cores are typically used in servers and high-end workstations. (like the Dell PowerEdge R740)
+Examples,
+- For Apple MacBook Air, the default is 1 processor (M1/M2/M3) with 8 cores (4 low performance and 4 high performance).
+- For Apple iPhone 14 Pro, the default is 1 processor (Apple A15 Bionic) with Hexa-core (6 cores: 2 high-performance + 4 high-efficiency).
+- Multiple cores are typically used in servers and high-end workstations. (like the Dell PowerEdge R740)
 
 
-
-L1, L2, L3 Cache and Registers
-Registers: Small, fast storage locations within the CPU used to hold data that the CPU is currently processing. They are the fastest type of memory but are limited in size.
+## CPU Caches
+Registers: Small, fast storage locations within the CPU used to hold data that the CPU is currently processing. 
+They are the fastest type of memory but are very limited in size.
 
 L1 Cache (Level 1): The smallest and fastest cache located within the CPU core. It is divided into two parts: the instruction cache (stores instructions) and the data cache (stores data).
 
