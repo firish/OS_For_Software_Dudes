@@ -94,6 +94,23 @@ Around the mid-2000s, increases in clock speed began to plateau due to thermal a
 Instead of merely increasing clock speeds, CPU manufacturers have focused on improving efficiency and parallelism. 
 This includes increasing the number of cores, enhancing instruction-level parallelism, and integrating specialized processing units (e.g., GPUs, AI accelerators)
 
+NOTE:
+Overclocking is the process of increasing the clock speed of a computer's CPU (or other components, such as GPU and RAM) beyond the manufacturer's specified maximum speed to achieve higher performance. 
+This is typically done by adjusting settings in the computer's BIOS/UEFI or using software tools provided by hardware manufacturers.
+
+The clock speed of a CPU is often determined by a combination of the base clock (BCLK) and a multiplier. 
+The base clock (also known as the front-side bus or system bus clock) is a fundamental clock frequency that the CPU uses to derive its operating frequency. 
+It is the frequency at which the motherboard operates and is used as a reference clock for various components of the system, including the CPU, memory (RAM), and other peripheral buses.
+
+For example, a base clock of 100 MHz with a multiplier of 40 results in a 4 GHz clock speed.
+Overclocking can involve increasing the multiplier, the base clock, or both.
+To maintain stability at higher clock speeds, overclocking often requires increasing the voltage supplied to the CPU.
+This also increases heat output and power consumption.
+It can give an increased performance but at the risk of crashing, freezing, data corruption, void warranty, lifespan shortage, etc. 
+
+NOTE:
+Other devices like RAM, GPU, Network cards, HDD, SDD, also have clock speeds.
+We can use the BIOS settings, or external software to overclock these as well. 
 
 ## 32-bit v 64-bit
 32-bit and 64-bit refer to the width of the data paths (data busses), registers, and memory addresses that the CPU can handle. 
@@ -110,10 +127,15 @@ Why No 128-bit?
 
 
 A CPU processor's simplified block diagram.
+
 ![Microprocessor Block Diagram](https://www.tutorialspoint.com/computer_logical_organization/images/microprocessor_blockdiagram.jpg)
 
+
 A simplified CPU architecture diagram.
+
 ![CPU Architecture Diagram](https://miro.medium.com/v2/resize:fit:1200/0*5dVxHUhXoshujAhL)
 
+
 An Example of dual-core and quad-core processors.
+
 ![Dual-core vs Quad-core CPU Architecture](https://phoenixnap.com/kb/wp-content/uploads/2023/04/dual-core-vs-quad-core-cpu-architecture.png)
