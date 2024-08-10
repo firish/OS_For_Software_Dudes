@@ -30,14 +30,37 @@ capacitance = e0 (of dielectric) *  S (surface area of capacitor) / d (thickness
 
 2) Transistor
 
-- word line
-- bit line
-- Sensor and Amplifier
-- Memory Controller
+Transistors are fundamental components in memory cells, particularly in DRAM and SRAM. 
+They act as switches that control whether a capacitor (in DRAM) or a set of cross-coupled inverters (in SRAM) can be read from/written to.
 
-### Understanding the components of memory 
+Transistors in memory are tiny, flat, and rectangular structures embedded within the silicon wafer. 
+They consist of three primary regions: the source, drain, and gate.
+The gate is separated from the channel (the area between the source and drain) by a thin insulating layer, usually made of silicon dioxide or a high-k material.
+
+Source and Drain: These are heavily doped regions of the semiconductor material (usually silicon) that allow current to flow when the transistor is turned on.
+Channel: The region between the source and drain where current flows when the transistor is on.
+Gate: This is the control electrode placed above the channel. The gate controls whether the current can flow from the source to the drain by applying a voltage.
+
+The most common type of transistor used in memory is a MOSFET (Metal-Oxide-Semiconductor Field-Effect Transistor)
+nMOS (n-type MOSFET): Conducts when a positive voltage is applied to the gate.
+pMOS (p-type MOSFET): Conducts when a negative voltage is applied to the gate.
+IMP: In memory cells, nMOS transistors are more common due to their higher electron mobility.
+
+Advanced Lithography, scaling down the channel, High-k Dielectrics, 3D stackable structures like FinFET allow for extremely small transistors.
+
+A regular transistor.
+
+![Transistor](https://www.electronicshub.org/wp-content/uploads/2015/01/Introduction-to-Transistors-Featured-Image.jpg)
+
+A MOSFET.
+
+![MOSFET](https://github.com/user-attachments/assets/d825e63f-fa3d-487b-9652-e2d70c29c41b)
+
+
+
+## DRAM
 The first major type of memory is DRAM (Dynamic RAM).
-The major memory of phones and laptops is generally of this type.
+
 
 
 - Capacitor: Stores charge to represent data (1 or 0).
