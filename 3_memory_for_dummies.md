@@ -1,10 +1,26 @@
 ## Physical Structure of Memory
 At the most fundamental level, memory in modern computers is primarily made up of transistors and capacitors. 
-The significant parts of memory are 
-- capacitor: A capacitor is an electric component that temporaily stores electricity.
-It's typically made up of two conductive plates separated by a dielectric (insulating) material.
-The plates are typically metal (most common one is aluminium) and dielectric is a high potassium material like hafnium oxide.
 
+The significant parts of memory are,
+
+- 1) capacitor:
+A capacitor is an electric component that temporarily stores electricity.
+It typically comprises two conductive plates separated by a dielectric (insulating) material.
+The plates are typically metal (the most common is aluminum) and the dielectric is a high-potassium material like hafnium oxide.
+
+The capacitor stores charge by accumulating electrons on the plates.
+When a voltage is applied, electrons accumulate on one plate, creating a negative charge, while the other plate develops a corresponding positive charge due to the absence of electrons.
+The dielectric material between the plates prevents the charges from crossing over, allowing the capacitor to hold the charge.
+This charged state is interpreted as a binary '1'.
+When there is no significant difference between the two plates, it is interpreted as a binary '0'.
+
+Advanced Photolithography, stacking capacitors vertically, and a high-k dielectric allow capacitors to be extremely small.
+
+A regular capacitor; used in circuits. 
+![Regular Capacitor](https://www.autodesk.com/products/fusion-360/blog/wp-content/uploads/2022/11/AdobeStock_190780597-1024x683.jpg)
+
+A paper capacitor, that takes less space.
+![Paper capacitor](https://cdn.sparkfun.com/assets/a/f/3/b/2/51969be3ce395f662c000000.png)
 
 
 - transistor
