@@ -23,7 +23,7 @@ A regular capacitor used in circuits.
 
 A paper capacitor, that takes less space.
 
-![Paper capacitor](https://cdn.sparkfun.com/assets/a/f/3/b/2/51969be3ce395f662c000000.png)
+![Paper capacitor](https://www.tdk.com/en/tech-mag/sites/default/files/2019-06/img_electronics_files_primer_vol1_1_3.gif)
 
 
 - transistor
