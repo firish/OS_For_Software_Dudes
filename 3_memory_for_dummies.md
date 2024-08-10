@@ -3,7 +3,7 @@ At the most fundamental level, memory in modern computers is primarily made up o
 
 The significant parts of memory are,
 
-- 1) capacitor:
+1) capacitor:
 A capacitor is an electric component that temporarily stores electricity.
 It typically comprises two conductive plates separated by a dielectric (insulating) material.
 The plates are typically metal (the most common is aluminum) and the dielectric is a high-potassium material like hafnium oxide.
@@ -27,7 +27,8 @@ capacitance = e0 (of dielectric) *  S (surface area of capacitor) / d (thickness
 ![Paper capacitor](https://github.com/user-attachments/assets/bc83e4c8-d47f-4efc-a2c8-1fce0b5f341c)
 
 
-- transistor
+2) Transistor
+
 - word line
 - bit line
 - Sensor and Amplifier
