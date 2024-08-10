@@ -14,7 +14,8 @@ The dielectric material between the plates prevents the charges from crossing ov
 This charged state is interpreted as a binary '1'.
 When there is no significant difference between the two plates, it is interpreted as a binary '0'.
 
-Advanced Photolithography, stacking capacitors vertically, and a high-k dielectric allow capacitors to be extremely small.
+Advanced Photolithography, stacking capacitors vertically, and a high-k dielectric (allowing high capacitance) allow the capacitors to be extremely small.
+
 
 A regular capacitor; used in circuits. 
 ![Regular Capacitor](https://theengineeringmindset.com/wp-content/uploads/2019/10/inside-a-capacitor.png)
