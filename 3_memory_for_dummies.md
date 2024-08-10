@@ -17,7 +17,7 @@ When there is no significant difference between the two plates, it is interprete
 Advanced Photolithography, stacking capacitors vertically, and a high-k dielectric allow capacitors to be extremely small.
 
 A regular capacitor; used in circuits. 
-![Regular Capacitor](https://images.app.goo.gl/BPjibbfjBZqG5ugc9)
+![Regular Capacitor](https://theengineeringmindset.com/wp-content/uploads/2019/10/inside-a-capacitor.png)
 
 A paper capacitor, that takes less space.
 ![Paper capacitor](https://cdn.sparkfun.com/assets/a/f/3/b/2/51969be3ce395f662c000000.png)
