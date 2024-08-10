@@ -22,6 +22,7 @@ A regular capacitor used in circuits.
 ![Regular Capacitor](https://theengineeringmindset.com/wp-content/uploads/2019/10/inside-a-capacitor.png)
 
 A paper capacitor, that takes less space.
+capacitance = e0 (of dielectric) *  S (surface area of capacitor) / d (thickness of dielectric)
 
 ![Paper capacitor](https://github.com/user-attachments/assets/bc83e4c8-d47f-4efc-a2c8-1fce0b5f341c)
 
