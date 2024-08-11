@@ -104,7 +104,10 @@ Refresh Logic:
 Refresh circuit:
 DRAM cells need to be periodically refreshed to maintain data integrity because the charge in the capacitors dissipates over time. The refresh logic in the memory controller ensures that each row of DRAM cells is refreshed within a specified time interval (typically every few milliseconds). The refresh operation reads the data from the cells and writes it back to restore the charge.
 
-DRAM Operation: Step-by-Step
+
+DRAM Operation: 
+Step-by-Step.
+
 Addressing:
 The CPU sends a memory address to the memory controller, which decodes it into row and column addresses.
 The memory controller activates the appropriate word line (via RAS) to select the desired row of memory cells.
